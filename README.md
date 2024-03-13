@@ -1,4 +1,4 @@
-### I have built this website with the help of JavaScript Mastery {https://youtu.be/B91wc5dCEBA}.
+### I have built this website with the help of JavaScript Mastery https://youtu.be/B91wc5dCEBA
 
 <div align="center">
   <br />
